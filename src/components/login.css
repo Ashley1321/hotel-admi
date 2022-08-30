@@ -1,0 +1,107 @@
+.MainFirstBg{
+    position: absolute;
+    width: 800px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: #3F0E03;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.SubMainDiv{
+    position: absolute;
+    width: 450px;
+    height: 659px;
+    left: 350px;
+    top: 160px;
+    background: #3F0E03;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.subWhite{
+    position: absolute;
+    width: 750px;
+    height: 659px;
+    left: 800px;
+    top: 160px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px;
+}
+.user{
+    position: absolute;
+    width: 300px;
+    height: 270px;
+    left: 100px;
+    top: 200px;
+}
+.firstTextbox{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 250px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.secondTextbox{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 335px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.firstName{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 200px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.signupEmail{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 340px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.signupPass{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 415px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.Surname{
+    box-sizing: border-box;
+    position: absolute;
+    width: 524px;
+    height: 47px;
+    left: 125px;
+    top: 270px;
+    background: #FFFFFF;
+    border: 1px solid #3F0E03;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
